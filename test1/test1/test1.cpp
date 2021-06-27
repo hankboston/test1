@@ -3,6 +3,7 @@
 
 #include <iostream>
 using namespace std;
+using namespace stdext;
 int main()
 {
     std::cout << "Hello World!\n";
